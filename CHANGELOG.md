@@ -4,6 +4,9 @@ This plugin provides a new enhanced API for interacting with SCM systems.
 
 ## Version History
 
+### Versions after 2.6.3 
+Release notes for versions after v2.6.3 are tracked via [GitHub Releases](https://github.com/jenkinsci/scm-api-plugin/releases).
+
 ### Version 2.6.3 (July 11, 2019)
 
 - Skipped version numbers due to release failure
